@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625218136457",
+    "project_id": "wallpaper-app-55fad",
+    "storage_bucket": "wallpaper-app-55fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625218136457:android:3d004c10875c44f0669958",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSuHesqsitO04yHTFZDBvtIiX-GfvOWpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
